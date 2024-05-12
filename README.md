@@ -6,7 +6,7 @@
 * SOTA + Awesome Paper 검색 잘하기 
     * ChatGPT의 견해도 도움이 많이 되었음
 * Input → Output 을 명확히 할 것 
-    * NLP의 경우 스페셜 노큰을 잘 정의해야할 수 있음
+    * NLP의 경우 스페셜 토큰을 잘 정의해야할 수 있음
 * 일반화를 기대할 수 있는 Validation / Test Set 구성
 * Baseline Model 을 통해 빠른 프로토타이핑 
     * Versioning과 성능 측정을 잘 할 것
