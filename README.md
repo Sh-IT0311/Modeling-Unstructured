@@ -30,13 +30,13 @@
         * Pre-train Task를 구성해 직접 Pre-train을 구현해 볼 수 있음
         * Data Dependency, Tokenizing(NLP)
         * Contrastive Learning
-    * Customize Model Layers
-        * Inductive Bias
-        * Feature Extraction 단계에서 Representation Power를 높이는 관점으로 연구함
-        * 결과를 보고 틀린 케이스에 대해 개선 방향을 반영함
-    * Ensemble 
-        * 모델 간의 Correlation 낮아야 효과를 볼 수 있음
-        * Ranker
+ * Customize Model Layers
+     * Inductive Bias
+     * Feature Extraction 단계에서 Representation Power를 높이는 관점으로 연구함
+     * 결과를 보고 틀린 케이스에 대해 개선 방향을 반영함
+ * Ensemble 
+     * 모델 간의 Correlation 낮아야 효과를 볼 수 있음
+     * Ranker
 3. Loss
 * Input → Output의 의도를 모델에 잘 반영할 수 있도록 올바른 Loss 설계가 필요함
     * Task마다 사용하는 Loss Function마다 Loss의 Scale은 다를 수 있다. 즉, 절대적으로 작다고 해서 해당 Task에서 정말 작은지는 판단이 필요함
