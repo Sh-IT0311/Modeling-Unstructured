@@ -52,6 +52,7 @@
     * Gradient Accumulation
 * Cost-Sensitive Learning 
     * Policy Learning : (특히, 생성형 AI에 대해) Loss와 Performance 간에 불일치를 직접적으로 Align 시킬 수 있음
+* Joint Learning
 4. Output
 * Post-processing
 * Feedback 
