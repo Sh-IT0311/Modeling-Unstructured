@@ -61,6 +61,7 @@
     * Gradient Distribution
     * Weight Distribution
     * Layer Distribution
+* Hyper Parameter Tuning
     
 ## 토이프로젝트
 * [FMCW 레이더를 활용한 Breathing Rate 추출](https://colab.research.google.com/drive/1d84s_-P4nSTnnM4FE9Jc6PFtbnDsE2Ga?usp=sharing)
