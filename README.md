@@ -7,7 +7,7 @@
     * ChatGPT의 견해도 도움이 많이 되었음
 * Input → Output 을 명확히 할 것 
     * NLP의 경우 스페셜 토큰을 잘 정의해야할 수 있음
-* 비즈니스 목적에 부합하는 평가지표 설계
+* 모델 성능지표 뿐만 아니라 비즈니스 목적에 부합하는 평가지표 설계
 * 일반화를 기대할 수 있는 Validation / Test Set 구성
 * Baseline Model 을 통해 빠른 프로토타이핑 
     * Versioning과 성능 측정을 잘 할 것
@@ -20,6 +20,7 @@
     * 결과를 보고 틀린 케이스에 대해 개선 방향을 반영함
 * Data Augmentation
 2. Model( = Feature Extraction + Downstream Task)
+* 기본적으로 다양한 모델들을 실험해볼 필요가 있음
 * Normalization(Batch, Layer..)
 * Activation Function
 * Weight Initialization 
